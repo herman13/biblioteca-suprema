@@ -1,0 +1,6 @@
+\documentclass[12pt]{article}
+\begin{document}
+L A TEX trata los caracteres “en blanco”, tales como el espacio en blanco o el tabulador, uniformemente como “espacio”. Varios caracteres consecutivos en blanco se tratan como un solo “espacio”. Espacio en blanco al principio de una línea se ignora en general, y un salto de línea aislado se trata como “espacio en blanco”.
+
+Una línea vacía entre dos líneas de texto define el fin de un párrafo. Varias líneas vacías se tratan igual que una sola línea vacía. El texto de abajo es un ejemplo. A la izquierda está es texto del fichero de entrada, y a la derecha está la salida formateada.
+\end{document}
